@@ -1,7 +1,7 @@
 <h1>AluGames</h1>
 
 <h2> 𝍕 Sobre</h2>
-<p>Curso de lógica de programação: Uma plaraforma para aluguel de games.</p>
+<p>Curso de lógica de programação: Uma plaraforma para alugar jogos.</p>
 
 ## 🚀 Tecnologias
 <div>
